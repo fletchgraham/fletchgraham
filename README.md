@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a blog to share my Computer Graphics knowledge. 
-- 👯 I’m looking to collaborate on the [hardiness map](https://github.com/fletchgraham/hardiness)
+- 🔭 I’m currently working on a blog to share my computer graphics knowledge. 
+- 👯 I’m looking to collaborate on creating graphics tutorials.
 - 🌱 I’m currently preparing to go back to university for computer science.
 - 💬 Ask me about private Blender tutoring! 
 - 📫 How to reach me: [twitter](https://twitter.com/fletchgraham)

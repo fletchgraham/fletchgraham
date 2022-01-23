@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You've reached the Github profile of Fletcher Graham 👨🏻‍💻, an artist, developer, and educator with over ten years of work experience in various ✨Computer Graphics✨ fields.
+You've reached the Github profile of Fletcher Graham 👨🏻‍💻, an artist and developer with over ten years of work experience in various ✨Computer Graphics✨ fields.
 
-- 🌱 I’m currently working on [Nodevember](https://nodevember.io/) projects.
-- 💬 Ask me about private Blender tutoring! 
 - 📫 How to reach me: [twitter](https://twitter.com/fletchgraham)
 - 😄 Pronouns: he series

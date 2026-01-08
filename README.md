@@ -1,15 +1,28 @@
-### Hi there 👋
+# Hey, I'm Fletcher
 
-<!--
-**fletchgraham/fletchgraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product engineer and creative technologist. I ship SaaS products, AI tools, and workflow systems.
 
-Here are some ideas to get you started:
+Previously: 3D pipelines at Nike, tooling at Mayo Studios.
 
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
 
-You've reached the Github profile of Fletcher Graham 👨🏻‍💻, an artist and developer with over ten years of work experience in various ✨Computer Graphics✨ fields.
+**[Blockdraft](https://github.com/fletchgraham/blockdraft)** — AI-enabled block editor for drafting content
+**[Charles](https://github.com/fletchgraham/charles)** — AI agent that generates atelier-style drawing tutorials
+**Jewish Prayer Pal** — SaaS for learning Hebrew liturgy (private repo)
 
-- 📫 How to reach me: [twitter](https://twitter.com/fletchgraham)
-- 😄 Pronouns: he series
+## Open Source
+
+My Blender tools have been adopted by the CG community:
+- [FletchNodes](https://github.com/fletchgraham/fletchnodes) — Geometry node groups (70+ stars)
+- [Nodevember](https://github.com/fletchgraham/nodevember) — Procedural VFX workflows (60+ stars)
+- [Text Grapher](https://github.com/fletchgraham/text_grapher) — Render 3D animations as text (30+ stars)
+
+## Stack
+
+**Apps:** Next.js, React, TypeScript, MongoDB, Stripe
+**Creative tools:** Python, Blender, Three.js, C++
+**Infra:** Vercel, AWS
+
+## Links
+
+[fletchgraham.com](https://fletchgraham.com) | [@fletchgraham](https://x.com/fletchgraham)
